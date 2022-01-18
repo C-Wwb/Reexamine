@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="1" targetName="1" />
+      <config projectName="9" targetName="9" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baf905df-b978-4a05-8552-abe8ecbb164d" name="Default Changelist" comment="" />
+    <list default="true" id="cce9702a-4d09-4a6e-8945-768f5713d64f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +25,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="23o0gfPsymfdcZVpbUQkAReR4SI" />
+  <component name="ProjectId" id="23qqTI0csA0PnvCSkc28LjqNBgb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -52,7 +52,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1" TARGET_NAME="1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1" RUN_TARGET_NAME="1">
+    <configuration name="9" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="9" TARGET_NAME="9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="9" RUN_TARGET_NAME="9">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -63,14 +63,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="baf905df-b978-4a05-8552-abe8ecbb164d" name="Default Changelist" comment="" />
-      <created>1642385244076</created>
+      <changelist id="cce9702a-4d09-4a6e-8945-768f5713d64f" name="Default Changelist" comment="" />
+      <created>1642471970382</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1642385244076</updated>
-      <workItem from="1642385245659" duration="4265000" />
-      <workItem from="1642471883862" duration="70000" />
-      <workItem from="1642472076002" duration="859000" />
+      <updated>1642471970382</updated>
+      <workItem from="1642471971725" duration="2180000" />
     </task>
     <servers />
   </component>
@@ -82,12 +80,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>52</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
